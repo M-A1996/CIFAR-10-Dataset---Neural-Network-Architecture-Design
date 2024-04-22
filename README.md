@@ -2,7 +2,8 @@
 
 ## Project Overview
 This project involves the design and training of a convolutional neural network (CNN) to classify images from the CIFAR-10 dataset. In the beginning, a basic architecture CNN is created with an intermediate block consisting of attention-weighted convolutional layers and an output block. The model then employs state-of-the-art training techniques such as data augmentation, batch normalization, and dropout to name a few in order to increase the testing accuracy of the model to generalise images better. There are a total of 3 stages including 3 different CNNs with and without the use of training techniques which are:
-    - h
+jowjfqiwqf
+
 
 The project achieved a predicted distinction with a peak testing accuracy of 86.12%.
 
