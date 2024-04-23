@@ -8,7 +8,7 @@ This detailed project implements a convolutional neural network (CNN) to classif
 - **Testing Dataset**: 10,000 images
 
 ### Class Labels
-- (classes: airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck)
+- (airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck)
 
 ### Neural Network Architecture
 The CNN architecture is developed through several stages:
