@@ -4,9 +4,9 @@
 This project demonstrates the development and training of a sophisticated convolutional neural network (CNN) for classifying images from the CIFAR-10 dataset using PyTorch. Our approach focuses on advanced neural network architectures and training techniques to enhance model performance.
 
 ### Stages of Model Development
-1. **Initial Setup and Baseline Model**: We begin by establishing a simple CNN as our baseline. This stage involves setting up data loaders, a basic network architecture, and initial training routines.
-2. **Enhanced Model Architecture**: Building upon the baseline, we introduce additional convolutional layers and integrate attention mechanisms to improve feature extraction capabilities. This stage explores the use of blocks and layers to incrementally advance the model's complexity and effectiveness.
-3. **Advanced Training Techniques**: The final stage applies sophisticated training strategies such as data augmentation, batch normalization, dropout, and learning rate schedulers. These techniques are aimed at improving the model's generalization capabilities and achieving higher accuracy.
+1. **Initial Setup and Baseline Model (Basic Architecture Model)**: We begin by establishing a simple CNN as our baseline. This stage involves setting up data loaders, a basic network architecture, and initial training routines.
+2. **Enhanced Model Architecture (Intermediate Model)**: Building upon the baseline, we introduce additional convolutional layers and integrate attention mechanisms to improve feature extraction capabilities. This stage explores the use of blocks and layers to incrementally advance the model's complexity and effectiveness.
+3. **Advanced Training Techniques (Advanced Model)**: The final stage applies sophisticated training strategies such as data augmentation, batch normalization, dropout, and learning rate schedulers. These techniques are aimed at improving the model's generalization capabilities and achieving higher accuracy.
 
 ### Key Features
 - **Modular Network Design**: The network architecture is designed to be modular, allowing for easy experimentation with different configurations of convolutional layers and blocks.
