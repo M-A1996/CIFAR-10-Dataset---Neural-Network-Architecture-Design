@@ -1,7 +1,7 @@
 # CIFAR-10 Image Classification with PyTorch
 
 ## Project Overview
-This detailed project implements a convolutional neural network (CNN) to classify images from the CIFAR-10 dataset. Using PyTorch, the model evolves through structured stages, each aimed at enhancing performance through advanced machine learning techniques.
+This detailed project implements a convolutional neural network (CNN) to classify images from the CIFAR-10 (Canadian Institute for Advanced Research, 10 classes) dataset. Using PyTorch, the model evolves through structured stages, each aimed at enhancing performance through advanced machine learning techniques.
 
 ### Dataset
 - **Training Dataset**: 50,000 images
